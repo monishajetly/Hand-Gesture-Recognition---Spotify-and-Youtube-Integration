@@ -50,7 +50,7 @@ hand-gesture-recognition/
 
 * Creating a User Interface
   
-## 👩‍💻 Author
+## Author
 
 **Monisha**
 
